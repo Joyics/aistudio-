@@ -1,0 +1,6 @@
+{
+  "name": "Portfolio Rebalancer | 资产调仓工具",
+  "description": "一个专业的资产比例监控与调仓建议工具，支持纳指、标普500、国债、黄金及现金的自动比例计算。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
